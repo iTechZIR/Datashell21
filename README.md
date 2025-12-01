@@ -24,10 +24,6 @@ DataShell21 is a powerful Python-based toolkit designed for server administrator
 
 > ### Setup
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/datashell21.git
-cd datashell21
-
 # Install required packages
 pip install requests
 ```
